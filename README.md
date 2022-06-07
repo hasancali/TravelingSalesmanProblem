@@ -17,3 +17,5 @@ https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm
 https://en.wikipedia.org/wiki/2-opt
 
 2-opt  not always gives the optimal solution. There are several other alternative approaches. 
+
+<img align='center' src="https://raw.githubusercontent.com/hasancali/TravelingSalesmanProblem/main/UnitTests/AlgorithmsTest.PNG" >
